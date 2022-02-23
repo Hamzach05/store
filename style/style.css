@@ -1,0 +1,12 @@
+.banner {
+    border-color: red;
+    border-radius: 10px;
+    border-width: 3px;
+    border-style: solid;
+}
+.title-banner {
+    border-color: green;
+    border-radius: 10px;
+    border-width: 3px;
+    border-style: solid;
+}
